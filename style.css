@@ -1,0 +1,36 @@
+body 
+{
+    background-color: #e9dcc9;
+    text-align: center;
+}
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+    border: 1px solid #d7c3c3;
+    background-color: #d7c3c3;
+    border-radius: 1%;
+    color: #6d6e80;
+    padding: 50px;
+  }
+ol.myOL {
+    display: inline-block;
+    text-align: left;
+    padding: 50px; 
+    margin-right: 500px;
+    margin-left: 500px;
+    border: 1px solid #ebcfba;
+    background-color: #ebcfba;
+    border-radius: 1%;
+    color: #6d6e80;
+  }
+img {
+    border-radius: 5%;
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+strong {
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
